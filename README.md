@@ -1,6 +1,5 @@
 # Luara Amaral
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luara-amaral-35a75655/)](https://www.linkedin.com/in/luara-amaral-35a75655/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/luraianne1)](https://github.com/luraianne1)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luraianne)](https://twitter.com/luraianne)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/luraianne/)](https://www.instagram.com/luraianne/)
 <!--
