@@ -1,4 +1,5 @@
-### Hi there 👋
+# Luara Amaral
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/luraianne1)](https://github.com/luraianne1)
 
 <!--
 **luraianne1/luraianne1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
