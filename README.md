@@ -4,7 +4,7 @@
 
 📊 Na área tributária, atuo com sistemas como Escrituração Fiscal Digital (EFD), como analista de requisitos, realizando análises e consultas SQL avançadas.  
 
-🌱 Aprendo novas técnicas de desenvolvimento backend, design de sistemas escaláveis e arquitetura SaaS multi-tenant.  
+🌱 Estou aprendendo novas técnicas de desenvolvimento backend, design de sistemas escaláveis e arquitetura SaaS multi-tenant.  
 
 🤝 Busco colaborar em projetos que envolvam automação de processos ou impacto social, aplicando minhas habilidades em coordenação de equipes, organização de projetos e alinhamento entre stakeholders, especialmente em iniciativas que conectem tecnologia e pessoas. 
 
